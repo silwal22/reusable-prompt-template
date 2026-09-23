@@ -1,0 +1,2 @@
+Original description: "The SmartHome Security Hub offers remote monitoring, motion detection, and automatic alerts for detected events. It connects to a home Wi-Fi network and supports up to eight connected sensors."
+Target tone: Urgent, action-oriented, for shoppers who want to secure their home quickly.

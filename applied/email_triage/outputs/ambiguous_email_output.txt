@@ -1,0 +1,4 @@
+Category: urgent
+Confidence: high
+Reasoning: The customer reports a duplicate charge directly impairing their their ability to pay a vendor before a due date, with credible risk of acco account lockout. This creates immediate operational impact on financial obl obligations and requires time-sensitive resolution to prevent further disru disruption.
+Next action: Route immediately to the billing team for urgent investigation investigation and resolution to prevent account lock and ensure vendor paym payment compliance.
